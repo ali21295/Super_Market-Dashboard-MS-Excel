@@ -43,7 +43,7 @@ A user-friendly layout was created with clear sections for KPIs, graphs, and cus
 **Interactivity:**
 Slicers and filters allow users to drill down into data by city, month, or product line.
 
-**🛒 Use Case**
+🛒 **Use Case**
 This dashboard serves as a decision-making tool for supermarket managers to:
 
 Identify best-performing product lines and cities.
@@ -51,10 +51,10 @@ Understand customer behavior and preferences.
 Optimize inventory and marketing strategies based on trends.
 Monitor customer satisfaction and improve service quality.'
 
-📊** Dataset**
+📊**Dataset**
 The dataset for this dashboard includes information on:
 
-**Revenue and Profit: **
+**Revenue and Profit:**
 Sales data segmented by product lines, categories, and cities.
 Customer Data: Gender distribution and membership type.
 Payment Methods: Usage of Cash, E-Wallet, and Credit Card.
@@ -66,8 +66,8 @@ Microsoft Excel:
 Dynamic Pivot Tables and Charts
 Interactive Slicers
 Advanced Conditional Formatting
-**
-🌟 Future Improvements**
+
+🌟 **Future Improvements**
 Integration with Real-Time Data:
 Use APIs or databases for live updates.
 
@@ -80,7 +80,7 @@ Adapt the dashboard for use on mobile devices.
 **Power BI Migration:**
 Expand capabilities by building an enhanced version in Power BI for cross-platform integration.
 
-**🚀 How to Use**
+🚀 **How to Use**
 Download the Excel file from this repository.
 Open the file in Microsoft Excel (2019 or later recommended).
 Use the slicers and filters to explore various data perspectives.
